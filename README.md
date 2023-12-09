@@ -1,12 +1,12 @@
-![F1 SYNTHWAVE](https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/[branch]/image.jpg?raw=true)
+<p align="center">
+  <img width="1100" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/F1%20SYNTHWAVE.jpg" alt="F1 SYNTHWAVE">
+</p>
 
-### I'm Gian Luca Spagnolo 👽
-
----
+<h1 align="center">I'm Gian Luca Spagnolo 👽</h1>
 
 - 📍 Buenos Aires, Argentina
 - 🏛️ I’m currently studying on FIUBA
-- 🌱 I’m currently learning Java, C & Assembly
+- 🌱 I’m currently learning Java, C, C++ & Assembly
 - 🤓 Ask me about C (hopefully)
 - 📫 How to reach me: gianluuba@gmail.com
 - ⚡ Fun fact: Typhlosion, Lucario & Goodra are my favorite pokemon
