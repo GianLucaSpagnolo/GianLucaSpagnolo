@@ -11,8 +11,8 @@
 - ⚡ How to reach me: gianluuba@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=500 src="https://github-readme-stats.vercel.app/api?username=GianLucaSpagnolo&include_all_commits=true&show_icons=true&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github"/>
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=GianLucaSpagnolo&include_all_commits=true&show_icons=true&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=GianLucaSpagnolo&include_all_commits=true&layout=compact&langs_count=8&card_width=320&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"/>
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianLucaSpagnolo&include_all_commits=true&layout=compact&langs_count=8&card_width=320&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"/>
 </a>
