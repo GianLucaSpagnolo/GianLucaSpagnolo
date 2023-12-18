@@ -5,8 +5,8 @@
 <h1 align="center">I'm Gian Luca Spagnolo 🤠</h1>
 
 - 📍 Buenos Aires, Argentina
-- 🏛️ I’m currently studying on FIUBA
-- 🌱 I’m currently learning Java, C, C++ & Assembly
+- 🏛️ I’m currently studying at FIUBA
+- 🌱 I’m currently learning Java, Rust & Assembly
 - 🤓 Ask me about C (hopefully)
 - ⚡ How to reach me: gianluuba@gmail.com
 
