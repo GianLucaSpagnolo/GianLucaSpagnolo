@@ -6,12 +6,12 @@
 
 - 📍 Buenos Aires, Argentina
 - 🏛️ I’m currently studying at FIUBA
-- 🌱 I’m currently learning Java, Rust & Assembly
+- 🌱 I’m currently learning Java, C++, Rust & Assembly
 - 🤓 Ask me about C (hopefully)
 - ⚡ How to reach me: gianluuba@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=GianLucaSpagnolo&include_all_commits=true&show_icons=true&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github"/>
+  <img height=200 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=GianLucaSpagnolo&include_all_commits=true&show_icons=true&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github&hide=contribs"/>
 </a>
 
 <h3></h3>
