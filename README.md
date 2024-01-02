@@ -6,16 +6,20 @@
 
 - 📍 Buenos Aires, Argentina
 - 🏛️ I’m currently studying at FIUBA
-- 🌱 I’m currently learning Java, C++, Rust & Assembly
+- 🌱 I’m currently learning C++ & Rust
 - 🤓 Ask me about C (hopefully)
-- ⚡ How to reach me: gianluuba@gmail.com
+
+<h2>🌐 Connect with me: </h2>
+
+
+<h2>📊 GitHub Stats: </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=GianLucaSpagnolo&include_all_commits=true&show_icons=true&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github&hide=contribs"/>
+  <img height=300 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=GianLucaSpagnolo&include_all_commits=true&show_icons=true&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github&hide=contribs&show=reviews,prs_merged,prs_merged_percentage"/>
 </a>
 
 <h3></h3>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=300 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianLucaSpagnolo&include_all_commits=true&layout=compact&langs_count=8&card_width=320&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"/>
+  <img height=270 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianLucaSpagnolo&include_all_commits=true&layout=compact&langs_count=6&card_width=320&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"/>
 </a>
