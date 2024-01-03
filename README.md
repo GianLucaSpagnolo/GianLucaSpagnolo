@@ -10,13 +10,6 @@
 - 🌱 I’m currently learning C++ & Rust
 - 🤓 Ask me about C (hopefully)
 
-<h2>🌐 Connect with me: </h2>
-<p align="center">
-  <a href="https://discord.com/invite/sQTWZn44" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/gian-luca-spagnolo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/gianluuks?igsh=MWoxN3dlbXhjNGNwbw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
-
 <h2>💻 Languages and Tools: </h2>
 
 <p align="center">
@@ -50,3 +43,13 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=270 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianLucaSpagnolo&include_all_commits=true&layout=compact&langs_count=6&card_width=320&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"/>
 </a>
+
+<h2>🌐 Connect with me: </h2>
+<p align="center">
+  <a href="https://discord.com/invite/sQTWZn44" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord" height="40" width="40" /></a>
+  <p2>  </p2>
+  <a href="https://www.linkedin.com/in/gian-luca-spagnolo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+  <p2>  </p2>
+  <a href="https://www.instagram.com/gianluuks?igsh=MWoxN3dlbXhjNGNwbw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
