@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1100" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/F1%20SYNTHWAVE.jpg" alt="F1 SYNTHWAVE">
+  <img width="1100" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/F1%20SYNTHWAVE.jpg" alt="F1 SYNTHWAVE">
 </p>
 
 <h1 align="center">I'm Gian Luca Spagnolo 🤠</h1>
