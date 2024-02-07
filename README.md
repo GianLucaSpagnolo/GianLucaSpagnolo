@@ -25,10 +25,10 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/golang.jpeg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/rust-lang.jpg" alt="rust" width="40" height="40"/> </a> 
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/golang.png" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/rust-lang.png" alt="rust" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/unreal-engine.png" alt="unreal" width="40" height="40"/> </a>
 </p>
 
 <h2>📊 GitHub Stats: </h2>
