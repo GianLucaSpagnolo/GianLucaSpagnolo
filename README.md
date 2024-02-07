@@ -2,7 +2,7 @@
   <img width="1100" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/F1%20SYNTHWAVE.jpg" alt="F1 SYNTHWAVE">
 </p>
 
-<h1 align="center">I'm Gian Luca Spagnolo 🤠</h1>
+<h1 align="center">Hi! I'm Gian Luca Spagnolo 🤠</h1>
 
 - 📍 Buenos Aires, Argentina
 - 🏛️ I’m currently studying at FIUBA
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning C++ & Rust
 - 🤓 Ask me about C (hopefully)
 
-<h2></h2>
+---
 
 <h3>💻 Languages and Tools </h3>
 
@@ -44,13 +44,13 @@
 </a>
 </details>
 
-<h2></h2>
+---
 
-<h3 align="center">🌐 Connect with me </h3>
+<h3 align="center">🌐 Connect with me 👽</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/gian-luca-spagnolo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-  <p2>       </p2>
+  <p2>               </p2>
   <a href="https://www.instagram.com/gianluuks?igsh=MWoxN3dlbXhjNGNwbw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <p2>       </p2>
+  <p2>               </p2>
   <a href="https://discord.com/invite/sQTWZn44" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord" height="40" width="40" /></a>
 </p>
