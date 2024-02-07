@@ -10,7 +10,9 @@
 - 🌱 I’m currently learning C++ & Rust
 - 🤓 Ask me about C (hopefully)
 
-<h2>💻 Languages and Tools: </h2>
+<h2></h2>
+
+<h3>💻 Languages and Tools </h3>
 
 <p align="center">
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/adobe-illustrator.jpeg" alt="illustrator" width="40" height="40"/> </a> 
@@ -31,24 +33,24 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/unreal-engine.png" alt="unreal" width="40" height="40"/> </a>
 </p>
 
-<h2>📊 GitHub Stats: </h2>
-
+<details>
+<summary><h3>📊 GitHub Stats </h3></summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=300 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=GianLucaSpagnolo&include_all_commits=true&show_icons=true&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github&hide=contribs&show=reviews,prs_merged,prs_merged_percentage"/>
 </a>
-
 <h3></h3>
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=270 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianLucaSpagnolo&include_all_commits=true&layout=compact&langs_count=6&card_width=320&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"/>
 </a>
+</details>
 
-<h2>🌐 Connect with me: </h2>
+<h2></h2>
+
+<h3 align="center">🌐 Connect with me </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/gian-luca-spagnolo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-  <p2>  </p2>
+  <p2>       </p2>
   <a href="https://www.instagram.com/gianluuks?igsh=MWoxN3dlbXhjNGNwbw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <p2>  </p2>
+  <p2>       </p2>
   <a href="https://discord.com/invite/sQTWZn44" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord" height="40" width="40" /></a>
 </p>
-
