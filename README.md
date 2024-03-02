@@ -1,14 +1,22 @@
 <p align="center">
-  <img width="1100" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/F1%20SYNTHWAVE.jpg" alt="F1 SYNTHWAVE">
+  <img width="1100" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/F1%20SYNTHWAVE.jpg" alt="F1-SYNTHWAVE">
 </p>
 
 <h1 align="center">Hi! I'm Gian Luca Spagnolo 🤠</h1>
 
+<img align = "right" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/ducky-duck.gif" alt="programming-duck" width="250" height="250"/>
+
+<br>
+<br>
+
 - 📍 Buenos Aires, Argentina
 - 🏛️ I’m currently studying at FIUBA
-- 💻 Information & Social Engineering Student
+- 💻 Informatics & Social Engineering Student
 - 🌱 I’m currently learning C++ & Rust
 - 🤓 Ask me about C (hopefully)
+
+<br>
+<br>
 
 ---
 
@@ -33,20 +41,43 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/unreal-engine.png" alt="unreal" width="40" height="40"/> </a>
 </p>
 
+---
+
 <details>
-<summary><h3>📊 GitHub Stats </h3></summary>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=300 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=GianLucaSpagnolo&include_all_commits=true&show_icons=true&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github&hide=contribs&show=reviews,prs_merged,prs_merged_percentage"/>
-</a>
-<h3></h3>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=270 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianLucaSpagnolo&include_all_commits=true&layout=compact&langs_count=6&card_width=320&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"/>
-</a>
+  <summary>🚀 My Projects</summary>
+
+  <br>
+    <div width="100%" align="center">
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo2" title="Algoritmos y Programacion 2"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo2&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo1" title="Algoritmos y Programacion 1"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo1&border_radius=14&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"></a>
+    </div>
+  <br/>
+
+  <br>
+    <div width="100%" align="center">
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo2" title="Algoritmos y Programacion 2"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo2&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo3-2023C2" title="Algoritmos y Programacion 3"><img align="center" height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo3-2023C2&border_radius=14&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"></a>
+    </div>
+  <br/>
+  
 </details>
 
 ---
 
-<h3 align="center">🌐 Connect with me 👽</h3>
+<details>
+  <summary>📊 GitHub Stats</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=300 width=1000 align="center" src="https://github-readme-stats.vercel.app/api?username=GianLucaSpagnolo&include_all_commits=true&show_icons=true&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000&icon_color=000000&rank_icon=github&hide=contribs&show=reviews,prs_merged,prs_merged_percentage"/>
+  </a>
+  <h3></h3>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=270 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianLucaSpagnolo&include_all_commits=true&layout=compact&langs_count=6&card_width=320&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"/>
+  </a>
+</details>
+
+---
+
+<h3 align="center">🌐 Connect with me 🌐</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/gian-luca-spagnolo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
   <p2>               </p2>
