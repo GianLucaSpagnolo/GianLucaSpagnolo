@@ -85,3 +85,6 @@
   <p2>               </p2>
   <a href="https://discord.com/invite/sQTWZn44" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord" height="40" width="40" /></a>
 </p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=F237EF&textBg=false&reversal=true&section=footer" width="100%"/>
