@@ -8,6 +8,7 @@
 
 <br>
 <br>
+<br>
 
 - 📍 Buenos Aires, Argentina
 - 🏛️ I’m currently studying at FIUBA
@@ -48,7 +49,7 @@
 
   <br>
     <div width="100%" align="center">
-      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo2" title="Algoritmos y Programacion 2"><img align="center" height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo2&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+      <a align="center" href="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo.github.io" title="My Projects"><img align="center" height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=GianLucaSpagnolo.github.io&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
       <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo1" title="Algoritmos y Programacion 1"><img align="center" height=140 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo1&border_radius=14&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"></a>
     </div>
   <br/>
