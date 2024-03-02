@@ -88,4 +88,4 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=F237EF&textBg=false&reversal=true&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=FE52AA&textBg=false&reversal=true&section=footer" width="100%"/>
