@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi! I'm Gian Luca Spagnolo 🤠</h1>
 
-<img align = "right" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/ducky-duck.gif" alt="programming-duck" width="250" height="250"/>
+<img align = "right" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/ducky-duck.gif" alt="programming-duck" width="150" height="150"/>
 
 <br>
 <br>
