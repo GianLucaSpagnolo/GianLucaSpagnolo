@@ -85,7 +85,7 @@
   <p2>               </p2>
   <a href="https://www.instagram.com/gianluuks?igsh=MWoxN3dlbXhjNGNwbw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <p2>               </p2>
-  <a href="https://discord.com/invite/sQTWZn44" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord" height="40" width="40" /></a>
+  <a href="discordapp.com/users/692031842257338378" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord" height="40" width="40" /></a>
 </p>
 
 
