@@ -10,7 +10,7 @@
 
 <img align = "right" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/ducky-duck.gif" alt="programming-duck" width="170" height="170"/>
 
-- 📍 Buenos Aires, Argentina
+- 📍 Buenos Aires, Argentina 🇦🇷
 - 🏛️ I’m currently studying at FIUBA
 - 💻 Informatics & Social Engineering Student
 - 🌱 I’m currently learning C++ & Rust
@@ -50,35 +50,35 @@
 
   <br>
     <div width="100%" align="center">
-      <a align="center" href="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo.github.io" title="My Projects"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=GianLucaSpagnolo.github.io&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
-      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo1" title="Algoritmos y Programacion 1"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo1&border_radius=14&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"></a>
+      <a align="center" href="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo.github.io" title="Mis Proyectos"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=GianLucaSpagnolo.github.io&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
     </div>
   <br/>
 
   <br>
     <div width="100%" align="center">
-      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo2" title="Algoritmos y Programacion 2"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo2&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
-      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo3-2023C2" title="Algoritmos y Programacion 3"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo3-2023C2&border_radius=14&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"></a>
-    </div>
-  <br/>
-
-  <br>
-    <div width="100%" align="center">
-      <a align="center" href="https://github.com/GianLucaSpagnolo/Informe_Organizacion_del_Computador" title="Organización del Computador"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=Informe_Organizacion_del_Computador&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
-      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-SisOps-Shell" title="Sistemas Operativos (1)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-SisOps-Shell&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
-    </div>
-  <br/>
-
-  <br>
-    <div width="100%" align="center">
-      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-SisOps-Sched" title="Sistemas Operativos (2)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-SisOps-Sched&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Taller-RGREP" title="Taller de Programación (Individual)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Taller-RGREP&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
       <a align="center" href="https://github.com/GianLucaSpagnolo/TP-SisOps-FileSystem" title="Sistemas Operativos (3)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-SisOps-FileSystem&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
     </div>
   <br/>
 
   <br>
     <div width="100%" align="center">
-      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Taller-RGREP" title="Taller de Programación (individual)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Taller-RGREP&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-SisOps-Sched" title="Sistemas Operativos (2)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-SisOps-Sched&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-SisOps-Shell" title="Sistemas Operativos (1)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-SisOps-Shell&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+    </div>
+  <br/>
+
+  <br>
+    <div width="100%" align="center">
+      <a align="center" href="https://github.com/GianLucaSpagnolo/Informe_Organizacion_del_Computador" title="Organización del Computador"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=Informe_Organizacion_del_Computador&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo3-2023C2" title="Algoritmos y Programacion 3"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo3-2023C2&border_radius=14&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"></a>
+    </div>
+  <br/>
+
+  <br>
+    <div width="100%" align="center">
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo2" title="Algoritmos y Programacion 2"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo2&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Algo1" title="Algoritmos y Programacion 1"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Algo1&border_radius=14&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"></a>
     </div>
   <br/>
   
