@@ -68,6 +68,12 @@
       <a align="center" href="https://github.com/GianLucaSpagnolo/TP-SisOps-Shell" title="Sistemas Operativos (1)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-SisOps-Shell&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
     </div>
   <br/>
+
+  <br>
+    <div width="100%" align="center">
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-SisOps-Sched" title="Sistemas Operativos (2)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-SisOps-Sched&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+    </div>
+  <br/>
   
 </details>
 
