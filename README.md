@@ -93,7 +93,7 @@
   </a>
   <h3></h3>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=270 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianLucaSpagnolo&include_all_commits=true&layout=compact&langs_count=6&card_width=320&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"/>
+    <img height=270 width=1000 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GianLucaSpagnolo&include_all_commits=true&layout=compact&langs_count=8&card_width=320&bg_color=45,F237EF,FC5252&title_color=000000&text_color=000000"/>
   </a>
 </details>
 
