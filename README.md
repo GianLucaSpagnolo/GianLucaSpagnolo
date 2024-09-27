@@ -5,10 +5,11 @@
 <h1 align="center">Hi! I'm Gian Luca Spagnolo 🤠</h1>
 
 <br>
-<br>
-<br>
 
-<img align = "right" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/ducky-duck.gif" alt="programming-duck" width="170" height="170"/>
+<img align = "right" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/pokemon.gif" alt="pokemon" width="270" height="270"/>
+
+<br>
+<br>
 
 - 📍 Buenos Aires, Argentina 🇦🇷
 - 🏛️ I’m currently studying at FIUBA
