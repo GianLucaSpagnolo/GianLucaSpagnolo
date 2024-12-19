@@ -38,7 +38,10 @@
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/react.png" alt="react" width="40" height="40"/> </a> 
+  <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/react.png" alt="react" width="40" height="40"/> </a>
+</p>
+
+<p align="center">
   <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/c%23.png" alt="csharp" width="40" height="40"/> </a> 
@@ -53,10 +56,6 @@
   <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/azure.png" alt="azure" width="40" height="40"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/unreal-engine.png" alt="unreal" width="40" height="40"/> </a> 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/wireshark.png" alt="wireshark" width="40" height="40"/> </a>
-</p>
-
-<p align="center">
-  
 </p>
 
 ---
