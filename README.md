@@ -11,11 +11,12 @@
 <br>
 <br>
 
-- 📍 Buenos Aires, Argentina 🇦🇷
+- 🗺️ Buenos Aires, Argentina 🇦🇷
 - 🏛️ I’m currently studying at FIUBA
-- 💻 Informatics & Social Engineering Student
+- 📚 Informatics & Social Engineering Student
+- 💻 University Assistant at Computer Organization
 - 🌱 I’m currently learning C++ & Rust
-- 🤓 Ask me about C (hopefully)
+- 🤓 Ask me something about C!
 
 <br>
 <br>
