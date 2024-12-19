@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://developer.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/microsoft.jpeg" alt="microsoft" width="40" height="40"/> </a> 
+  <a href="https://developer.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/microsoft.png" alt="microsoft" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/docker.png" alt="docker" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/es-es/devops/plan/what-is-scrum" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/scrum.png" alt="scrum" width="40" height="40"/> </a> 
@@ -50,7 +50,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/pandas.png" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/seaborn.png" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/aws.png" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/azure.jpeg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/azure.png" alt="azure" width="40" height="40"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/unreal-engine.png" alt="unreal" width="40" height="40"/> </a> 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/wireshark.png" alt="wireshark" width="40" height="40"/> </a>
 </p>
