@@ -67,13 +67,20 @@
   <br>
     <div width="100%" align="center">
       <a align="center" href="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo.github.io" title="Mis Proyectos"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=GianLucaSpagnolo.github.io&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
-      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Taller-1" title="Taller de Programación (Equipo)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Taller-1&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP2-Redes-SDN" title="Redes"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP2-Redes-SDN&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
     </div>
   <br/>
 
   <br>
     <div width="100%" align="center">
       <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Taller-RGREP" title="Taller de Programación (Individual)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Taller-RGREP&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TP-Taller-1" title="Taller de Programación (Equipo)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-Taller-1&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
+    </div>
+  <br/>
+
+  <br>
+    <div width="100%" align="center">
+      <a align="center" href="https://github.com/GianLucaSpagnolo/TDA_cursada" title="Teoría de Algoritmos"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TDA_cursada&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
       <a align="center" href="https://github.com/GianLucaSpagnolo/TP-SisOps-FileSystem" title="Sistemas Operativos (3)"><img align="center" height=140 width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=GianLucaSpagnolo&repo=TP-SisOps-FileSystem&border_radius=14&bg_color=45,FC5252,F237EF&title_color=000000&text_color=000000"></a>
     </div>
   <br/>
