@@ -6,7 +6,7 @@
 
 <br>
 
-<img align = "right" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/pokemon.gif" alt="pokemon" width="315" height="295"/>
+<img align = "right" src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/res/pokemon.gif" alt="pokemon" width="305" height="265"/>
 
 <br>
 <br>
