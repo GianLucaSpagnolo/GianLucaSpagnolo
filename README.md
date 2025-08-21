@@ -29,20 +29,20 @@
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/linux.png" alt="linux" width="40" height="40"/> </a> 
   <a href="https://developer.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/microsoft.png" alt="microsoft" width="40" height="40"/> </a> 
+  <a href="https://www.apple.com/es/os/macos/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/mac-os.png" alt="mac os" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/git.png" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/docker.png" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/docker-compose.png" alt="docker compose" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/es-es/devops/plan/what-is-scrum" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/scrum.png" alt="scrum" width="40" height="40"/> </a> 
   <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/jira.png" alt="jira" width="40" height="40"/> </a> 
   <a href="https://illustrator.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/adobe-illustrator.jpeg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://html5.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/html5.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/css3.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/javascript.png" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/angular.png" alt="angular" width="40" height="40"/> </a> 
   <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/react.png" alt="react" width="40" height="40"/> </a>
-</p>
-
-<p align="center">
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/javascript.png" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/c.png" alt="c" width="40" height="40"/> </a> 
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/cpp.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/csharp.png" alt="csharp" width="40" height="40"/> </a> 
@@ -51,6 +51,8 @@
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/golang.png" alt="go" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/python.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/postgresql.png" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/cassandra.png" alt="cassandra" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/pandas.png" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/seaborn.png" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/aws.png" alt="aws" width="40" height="40"/> </a> 
