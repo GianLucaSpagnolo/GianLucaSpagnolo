@@ -14,9 +14,9 @@
 - 🗺️ Buenos Aires, Argentina 🇦🇷
 - 🏛️ I’m currently studying at FIUBA
 - 📚 Informatics & Social Engineering Student
-- 💻 University Assistant at Computer Organization
-- 🌱 I’m currently learning C++ & Rust
-- 🤓 Ask me something about C!
+- 🤓 Also University Assistant at FIUBA
+- 🌱 I’m currently learning Rust & Golang
+- 🔥 Ask me anything about cloud & metrics!
 
 <br>
 <br>
