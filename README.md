@@ -34,6 +34,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/docker.png" alt="docker" width="40" height="40"/> </a> 
   <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/docker-compose.png" alt="docker compose" width="40" height="40"/> </a> 
   <a href="https://learn.microsoft.com/es-es/devops/plan/what-is-scrum" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/scrum.png" alt="scrum" width="40" height="40"/> </a> 
+  <a href="https://kanbantool.com/es/metodologia-kanban" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/kanban.png" alt="kanban" width="40" height="40"/> </a> 
   <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/jira.png" alt="jira" width="40" height="40"/> </a> 
   <a href="https://illustrator.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/adobe-illustrator.jpeg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
@@ -53,12 +54,18 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/postgresql.png" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/cassandra.png" alt="cassandra" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/redis.png" alt="redis" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/pandas.png" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/seaborn.png" alt="seaborn" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/aws.png" alt="aws" width="40" height="40"/> </a> 
   <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/azure.png" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/terraform.png" alt="terraform" width="40" height="40"/> </a> 
+  <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/ansible.png" alt="ansible" width="40" height="40"/> </a> 
+  <a href="https://graphiteapp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/graphite.png" alt="graphite" width="40" height="40"/> </a> 
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/grafana.png" alt="grafana" width="40" height="40"/> </a> 
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/wireshark.png" alt="wireshark" width="40" height="40"/> </a> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/unreal-engine.png" alt="unreal" width="40" height="40"/> </a> 
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/wireshark.png" alt="wireshark" width="40" height="40"/> </a>
 </p>
 
 ---
