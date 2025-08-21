@@ -65,7 +65,6 @@
   <a href="https://graphiteapp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/graphite.png" alt="graphite" width="40" height="40"/> </a> 
   <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/grafana.png" alt="grafana" width="40" height="40"/> </a> 
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/wireshark.png" alt="wireshark" width="40" height="40"/> </a> 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/GianLucaSpagnolo/GianLucaSpagnolo/blob/main/logo/unreal-engine.png" alt="unreal" width="40" height="40"/> </a> 
 </p>
 
 ---
